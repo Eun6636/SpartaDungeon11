@@ -12,7 +12,6 @@ public class Player
     public int HP;
     public int CR;
 
-
 }
 
 public class GameManager : MonoBehaviour
